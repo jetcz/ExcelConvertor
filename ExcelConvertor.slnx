@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ExcelConvertor.ConsoleApp/ExcelConvertor.ConsoleApp.csproj" Id="af37385e-f2ab-410f-b41e-6ab7ce2e1d92" />
+  <Project Path="ExcelConvertor.Lib/ExcelConvertor.Lib.csproj" Id="46fb0260-afc3-4eff-9b7d-2198af1817bb" />
+  <Project Path="ExcelConvertor.Lib.Tests/ExcelConvertor.Lib.Tests.csproj" />
+  <Project Path="ExcelConvertor.WebApp/ExcelConvertor.WebApp.csproj" Id="e40cfbcb-cedd-46cf-a9e0-9b6fe7570f3c" />
+</Solution>
+
+
